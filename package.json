@@ -1,0 +1,19 @@
+{
+  "name": "pairing-matrix",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "dependencies": {
+    "@shopify/draggable": "^1.0.0-beta.8",
+    "import": "0.0.6",
+    "react": "^16.13.1",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
